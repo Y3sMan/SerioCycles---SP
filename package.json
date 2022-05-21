@@ -25,6 +25,7 @@
     "skryim platform"
   ],
   "dependencies": {
+    "@skyrim-platform/jcontainers": "^4.2.3",
     "@skyrim-platform/papyrus-util": "^4.2.3",
     "@skyrim-platform/po3-papyrus-extender": "^4.5.7",
     "@skyrim-platform/skyrim-platform": "^2.3.0"
